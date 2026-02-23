@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FBF6EA"/>
+  <rect x="40" y="40" width="1120" height="720" rx="24" fill="#FFF" stroke="#D8C9A1" stroke-width="4"/>
+  <text x="600" y="360" text-anchor="middle" fill="#2F5D3A" font-family="Arial, sans-serif" font-size="48" font-weight="700">KIRSAANI</text>
+  <text x="600" y="420" text-anchor="middle" fill="#7A5A2E" font-family="Arial, sans-serif" font-size="28">Image Placeholder</text>
+  <text x="600" y="470" text-anchor="middle" fill="#7A5A2E" font-family="Arial, sans-serif" font-size="20">TODO: Replace with real brand photography assets</text>
+</svg>

@@ -1,0 +1,5 @@
+KIRSAANI Lab Report Placeholder
+
+TODO:
+- Replace this file with the real third-party lab report PDF.
+- Update app/components/DownloadPDFButton.tsx href if filename changes.
