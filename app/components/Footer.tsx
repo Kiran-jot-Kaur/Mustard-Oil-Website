@@ -28,6 +28,7 @@ export function Footer() {
           </ul>
         </div>
       </div>
+      <p className="text-center pt-10 text-xs text-stone-500">Copyright © 2025 Kirsaani. All rights reserved.</p>
     </footer>
   );
 }
