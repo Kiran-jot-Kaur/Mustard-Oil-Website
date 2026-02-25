@@ -1,5 +1,22 @@
-KIRSAANI Lab Report Placeholder
+KIRSAANI MUSTARD OIL – LAB TEST REPORT (DUMMY)
 
-TODO:
-- Replace this file with the real third-party lab report PDF.
-- Update app/components/DownloadPDFButton.tsx href if filename changes.
+Brand Name: KIRSAANI Cold Pressed Mustard Oil Product Type: Kachi Ghani
+Mustard Oil Batch Number: KIR-001 Manufacturing Location: Kharar,
+Mohali, Chandigarh Sample Tested On: 01 January 2026 Report Number:
+KIR-LAB-001
+
+Test Results Test Parameter Result Standard Limit ———————————————————
+Moisture Content 0.12% Less than 0.2% Free Fatty Acid (FFA) 1.1% Less
+than 3% Peroxide Value 4 meq/kg Less than 10 meq/kg Argemone Oil Test
+Not Detected Must be Negative Color Golden Brown Natural Mustard Oil
+Color Odor Strong Natural Mustard Aroma Appearance Clear, No Sediment
+
+Conclusion The tested sample of KIRSAANI Cold Pressed Mustard Oil meets
+standard quality requirements for edible mustard oil.
+
+(This is a dummy report created for demonstration purposes. Original lab
+report will be updated soon.)
+
+Authorized Lab Signature: ___________________ 
+Lab Name:___________________ 
+Date: ___________________

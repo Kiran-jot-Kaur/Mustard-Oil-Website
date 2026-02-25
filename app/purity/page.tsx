@@ -35,7 +35,7 @@ const verificationRows = [
   { label: "Product", value: "Kachi Ghani Cold Pressed Mustard Oil (1L)" },
   { label: "Batch", value: "KRN-2025-001 (placeholder)" },
   { label: "Packed on", value: "12 Jan 2025 (placeholder)" },
-  { label: "Valid verification page", value: "https://kirsaani.in/purity" }
+  { label: "Valid verification page", value: "https://kirsaani-mustard-oil.netlify.app/purity" }
 ];
 
 export default function PurityPage() {

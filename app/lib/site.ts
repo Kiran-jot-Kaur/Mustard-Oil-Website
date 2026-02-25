@@ -4,8 +4,8 @@ export const siteConfig = {
   location: "Kharar, Punjab",
   description:
     "KIRSAANI brings pure Kachi Ghani cold-pressed mustard oil directly from farmers in Punjab to families who value honest food.",
-  defaultWhatsapp: "919999999999",
-  defaultCall: "919999999999"
+  defaultWhatsapp: "917508799005",
+  defaultCall: "917508799005"
 };
 
 export const highlights = [

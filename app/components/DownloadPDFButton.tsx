@@ -6,7 +6,7 @@ export function DownloadPDFButton() {
       className="inline-flex rounded-full bg-forest px-5 py-3 text-sm font-semibold text-white hover:bg-forest/90"
       download
     >
-      Download Lab Report (Placeholder)
+      Download Lab Report
     </a>
   );
 }
